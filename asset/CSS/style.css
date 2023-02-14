@@ -1,0 +1,22 @@
+body {
+  background-color: #565252;
+  text-align: center;
+}
+body h1 {
+  color: aliceblue;
+}
+body p {
+  color: azure;
+}
+body input {
+  border-radius: 5px;
+  border: 1px solid black;
+  width: 180px;
+  height: 25px;
+}
+body button {
+  border-radius: 5px;
+  border: 1px solid black;
+  width: 80px;
+  height: 25px;
+}/*# sourceMappingURL=style.css.map */
